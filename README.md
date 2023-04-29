@@ -8,7 +8,7 @@ In this challenge, you’ll use your knowledge of Python and unsupervised learni
 
 
 ## Assignment components
-_Note: The plots do not show on github, so I embedded them in this section_
+_Note: The plots do not show in the notebook on github, so I embedded them in this section_
 * Normalizing the data (get all variables to the same z-score scale with a mean of 0 and std of 1)
 * Assessing the number of appropriate clusters using the elbow method
 
